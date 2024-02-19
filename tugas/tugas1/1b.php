@@ -22,7 +22,7 @@
         echo "<br></b>";
         
         echo "Jika aku dikurangi 20, maka aku sekarang menjadi" . " <b>" . ($angka * 5 / 2 + 75 - 20);
-        
+        s
         ?>
 </body>
 </html>
