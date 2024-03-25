@@ -1,9 +1,3 @@
-<!-- 
-Nama : Fikri Ridwan Faturohman
-NRP : 203040001
-Praktikum : Rabu pukul 09:00 - 10:00 WIB
--->
-
 <!DOCTYPE html>
 <html lang="en">
 
